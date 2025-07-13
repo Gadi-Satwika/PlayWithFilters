@@ -26,9 +26,9 @@ A simple and interactive web-based image filter application that allows users to
 - Explored CSS filter properties and their real-time application
 - Improved understanding of image processing basics in web development
 
-## 🚀 How to Run
+## Try It Now
 
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/PlayWithFilters.git
+  Link: 
+## Contact: 
+    satwikagadi2005@gmail.com
 
